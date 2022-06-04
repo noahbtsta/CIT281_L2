@@ -14,6 +14,6 @@ and benefited me throughout the course.
     - Tracked
     - Ignore
     - 
-![im](images/git1.jpg)
+![im](images/git2.png)
 
 - Creating a .gitignore file to intentionally untrack certain files
